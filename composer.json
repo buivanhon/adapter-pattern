@@ -1,0 +1,16 @@
+{
+    "name": "design/patterns",
+    "description": "Implementation of design patterns.",
+    "authors": [
+        {
+            "name": "Hon BUI",
+            "email": "buivanhon@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "patterns\\": "src/"
+        }
+    }
+}
